@@ -1,0 +1,2009 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-08T21:31:34Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 9267545,
+  "bounds": {
+    "minlat": 42.3335048,
+    "minlon": -71.0931365,
+    "maxlat": 42.3359169,
+    "maxlon": -71.0903775
+  },
+  "geometry": [
+    { "lat": 42.3359169, "lon": -71.0903775 },
+    { "lat": 42.3357905, "lon": -71.0905010 },
+    { "lat": 42.3356690, "lon": -71.0906328 },
+    { "lat": 42.3335048, "lon": -71.0931365 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "layer": "-1",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "2",
+    "source": "massgis_import_v0.1_20071013192438",
+    "tunnel": "yes",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 9267577,
+  "bounds": {
+    "minlat": 42.3359169,
+    "minlon": -71.0903775,
+    "maxlat": 42.3363100,
+    "maxlon": -71.0899565
+  },
+  "geometry": [
+    { "lat": 42.3363100, "lon": -71.0899565 },
+    { "lat": 42.3360953, "lon": -71.0901932 },
+    { "lat": 42.3359169, "lon": -71.0903775 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "2",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 27112680,
+  "bounds": {
+    "minlat": 42.3375199,
+    "minlon": -71.0879545,
+    "maxlat": 42.3390223,
+    "maxlon": -71.0861389
+  },
+  "geometry": [
+    { "lat": 42.3375199, "lon": -71.0879545 },
+    { "lat": 42.3380993, "lon": -71.0872569 },
+    { "lat": 42.3390223, "lon": -71.0861389 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "highspeed": "yes",
+    "maxspeed": "120 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "old_name:1970": "Shore Line",
+    "old_railway_operator": "NYNH&H",
+    "operator": "Amtrak",
+    "operator:wikidata": "Q23239",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "2",
+    "ref": "NHB",
+    "source": "Bing",
+    "source:old_name:1970": "New Haven Region Timetable No. 2, January 18, 1970",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 34730771,
+  "bounds": {
+    "minlat": 42.3333973,
+    "minlon": -71.0929717,
+    "maxlat": 42.3357417,
+    "maxlon": -71.0901161
+  },
+  "geometry": [
+    { "lat": 42.3333973, "lon": -71.0929717 },
+    { "lat": 42.3357417, "lon": -71.0901161 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "highspeed": "yes",
+    "layer": "-1",
+    "maxspeed": "120 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "old_name:1970": "Shore Line",
+    "old_railway_operator": "NYNH&H",
+    "operator": "Amtrak",
+    "operator:wikidata": "Q23239",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "2",
+    "ref": "NHB",
+    "source:old_name:1970": "New Haven Region Timetable No. 2, January 18, 1970",
+    "tunnel": "yes",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 88625309,
+  "bounds": {
+    "minlat": 42.3362812,
+    "minlon": -71.0894711,
+    "maxlat": 42.3367388,
+    "maxlon": -71.0889060
+  },
+  "geometry": [
+    { "lat": 42.3362812, "lon": -71.0894711 },
+    { "lat": 42.3367388, "lon": -71.0889060 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "highspeed": "yes",
+    "maxspeed": "120 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "old_name:1970": "Shore Line",
+    "old_railway_operator": "NYNH&H",
+    "operator": "Amtrak",
+    "operator:wikidata": "Q23239",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "2",
+    "ref": "NHB",
+    "source:old_name:1970": "New Haven Region Timetable No. 2, January 18, 1970",
+    "tunnel": "building_passage",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 88625311,
+  "bounds": {
+    "minlat": 42.3388895,
+    "minlon": -71.0865988,
+    "maxlat": 42.3407975,
+    "maxlon": -71.0844022
+  },
+  "geometry": [
+    { "lat": 42.3407975, "lon": -71.0844022 },
+    { "lat": 42.3405323, "lon": -71.0846998 },
+    { "lat": 42.3403794, "lon": -71.0848617 },
+    { "lat": 42.3402759, "lon": -71.0849653 },
+    { "lat": 42.3399533, "lon": -71.0853057 },
+    { "lat": 42.3395649, "lon": -71.0857469 },
+    { "lat": 42.3392205, "lon": -71.0861726 },
+    { "lat": 42.3388895, "lon": -71.0865988 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "2",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 88625312,
+  "bounds": {
+    "minlat": 42.3363100,
+    "minlon": -71.0899565,
+    "maxlat": 42.3369294,
+    "maxlon": -71.0891986
+  },
+  "geometry": [
+    { "lat": 42.3369294, "lon": -71.0891986 },
+    { "lat": 42.3367918, "lon": -71.0893768 },
+    { "lat": 42.3364700, "lon": -71.0897680 },
+    { "lat": 42.3363100, "lon": -71.0899565 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "2",
+    "source": "massgis_import_v0.1_20071013192438",
+    "tunnel": "building_passage",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 88625315,
+  "bounds": {
+    "minlat": 42.3357417,
+    "minlon": -71.0901161,
+    "maxlat": 42.3362812,
+    "maxlon": -71.0894711
+  },
+  "geometry": [
+    { "lat": 42.3357417, "lon": -71.0901161 },
+    { "lat": 42.3362812, "lon": -71.0894711 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "highspeed": "yes",
+    "maxspeed": "120 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "old_name:1970": "Shore Line",
+    "old_railway_operator": "NYNH&H",
+    "operator": "Amtrak",
+    "operator:wikidata": "Q23239",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "2",
+    "ref": "NHB",
+    "source:old_name:1970": "New Haven Region Timetable No. 2, January 18, 1970",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 89389474,
+  "bounds": {
+    "minlat": 42.3357660,
+    "minlon": -71.0901495,
+    "maxlat": 42.3363008,
+    "maxlon": -71.0895012
+  },
+  "geometry": [
+    { "lat": 42.3363008, "lon": -71.0895012 },
+    { "lat": 42.3357660, "lon": -71.0901495 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "highspeed": "yes",
+    "maxspeed": "120 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "operator": "Amtrak",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "1",
+    "ref": "NHB",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 89389475,
+  "bounds": {
+    "minlat": 42.3358184,
+    "minlon": -71.0902510,
+    "maxlat": 42.3363618,
+    "maxlon": -71.0895945
+  },
+  "geometry": [
+    { "lat": 42.3363618, "lon": -71.0895945 },
+    { "lat": 42.3363372, "lon": -71.0896243 },
+    { "lat": 42.3360070, "lon": -71.0900241 },
+    { "lat": 42.3358184, "lon": -71.0902510 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "maxspeed": "100 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "operator": "Amtrak",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "3",
+    "ref": "NHB",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 89514207,
+  "bounds": {
+    "minlat": 42.3334825,
+    "minlon": -71.0931060,
+    "maxlat": 42.3358569,
+    "maxlon": -71.0902823
+  },
+  "geometry": [
+    { "lat": 42.3334825, "lon": -71.0931060 },
+    { "lat": 42.3349578, "lon": -71.0913892 },
+    { "lat": 42.3350915, "lon": -71.0912297 },
+    { "lat": 42.3357291, "lon": -71.0904374 },
+    { "lat": 42.3358569, "lon": -71.0902823 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "layer": "-1",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "1",
+    "source": "massgis_import_v0.1_20071013192438",
+    "tunnel": "yes",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 89534621,
+  "bounds": {
+    "minlat": 42.3358569,
+    "minlon": -71.0902823,
+    "maxlat": 42.3363930,
+    "maxlon": -71.0896422
+  },
+  "geometry": [
+    { "lat": 42.3358569, "lon": -71.0902823 },
+    { "lat": 42.3363930, "lon": -71.0896422 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "1",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 89534622,
+  "bounds": {
+    "minlat": 42.3363008,
+    "minlon": -71.0895012,
+    "maxlat": 42.3367630,
+    "maxlon": -71.0889394
+  },
+  "geometry": [
+    { "lat": 42.3367630, "lon": -71.0889394 },
+    { "lat": 42.3363008, "lon": -71.0895012 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "highspeed": "yes",
+    "maxspeed": "120 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "operator": "Amtrak",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "1",
+    "ref": "NHB",
+    "tunnel": "building_passage",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 89534624,
+  "bounds": {
+    "minlat": 42.3375437,
+    "minlon": -71.0879894,
+    "maxlat": 42.3390425,
+    "maxlon": -71.0861723
+  },
+  "geometry": [
+    { "lat": 42.3390425, "lon": -71.0861723 },
+    { "lat": 42.3387317, "lon": -71.0865494 },
+    { "lat": 42.3384006, "lon": -71.0869544 },
+    { "lat": 42.3380387, "lon": -71.0873956 },
+    { "lat": 42.3375437, "lon": -71.0879894 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "highspeed": "yes",
+    "maxspeed": "120 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "operator": "Amtrak",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "1",
+    "ref": "NHB",
+    "source": "Bing",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 89534625,
+  "bounds": {
+    "minlat": 42.3363930,
+    "minlon": -71.0896422,
+    "maxlat": 42.3368550,
+    "maxlon": -71.0890889
+  },
+  "geometry": [
+    { "lat": 42.3363930, "lon": -71.0896422 },
+    { "lat": 42.3368419, "lon": -71.0891041 },
+    { "lat": 42.3368550, "lon": -71.0890889 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "1",
+    "source": "massgis_import_v0.1_20071013192438",
+    "tunnel": "building_passage",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 89534627,
+  "bounds": {
+    "minlat": 42.3376012,
+    "minlon": -71.0880740,
+    "maxlat": 42.3390678,
+    "maxlon": -71.0862111
+  },
+  "geometry": [
+    { "lat": 42.3390678, "lon": -71.0862111 },
+    { "lat": 42.3387613, "lon": -71.0866020 },
+    { "lat": 42.3384495, "lon": -71.0869982 },
+    { "lat": 42.3381218, "lon": -71.0874235 },
+    { "lat": 42.3379260, "lon": -71.0876780 },
+    { "lat": 42.3376012, "lon": -71.0880740 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "maxspeed": "100 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "operator": "Amtrak",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "3",
+    "ref": "NHB",
+    "source": "Bing",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 89534629,
+  "bounds": {
+    "minlat": 42.3386259,
+    "minlon": -71.0868653,
+    "maxlat": 42.3407175,
+    "maxlon": -71.0842770
+  },
+  "geometry": [
+    { "lat": 42.3386259, "lon": -71.0868653 },
+    { "lat": 42.3392918, "lon": -71.0860215 },
+    { "lat": 42.3394584, "lon": -71.0858156 },
+    { "lat": 42.3404695, "lon": -71.0845841 },
+    { "lat": 42.3407175, "lon": -71.0842770 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "1",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 89534630,
+  "bounds": {
+    "minlat": 42.3363618,
+    "minlon": -71.0895945,
+    "maxlat": 42.3368230,
+    "maxlon": -71.0890416
+  },
+  "geometry": [
+    { "lat": 42.3368230, "lon": -71.0890416 },
+    { "lat": 42.3363618, "lon": -71.0895945 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "maxspeed": "100 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "operator": "Amtrak",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "3",
+    "ref": "NHB",
+    "tunnel": "building_passage",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 89534633,
+  "bounds": {
+    "minlat": 42.3334187,
+    "minlon": -71.0930070,
+    "maxlat": 42.3357660,
+    "maxlon": -71.0901495
+  },
+  "geometry": [
+    { "lat": 42.3357660, "lon": -71.0901495 },
+    { "lat": 42.3334187, "lon": -71.0930070 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "highspeed": "yes",
+    "layer": "-1",
+    "maxspeed": "120 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "operator": "Amtrak",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "1",
+    "ref": "NHB",
+    "tunnel": "yes",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 89534636,
+  "bounds": {
+    "minlat": 42.3334454,
+    "minlon": -71.0930456,
+    "maxlat": 42.3358184,
+    "maxlon": -71.0902510
+  },
+  "geometry": [
+    { "lat": 42.3358184, "lon": -71.0902510 },
+    { "lat": 42.3355957, "lon": -71.0905111 },
+    { "lat": 42.3353947, "lon": -71.0907440 },
+    { "lat": 42.3345629, "lon": -71.0916951 },
+    { "lat": 42.3343248, "lon": -71.0919721 },
+    { "lat": 42.3334454, "lon": -71.0930456 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "layer": "-1",
+    "maxspeed": "100 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "operator": "Amtrak",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "3",
+    "ref": "NHB",
+    "tunnel": "yes",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 296579042,
+  "bounds": {
+    "minlat": 42.3407175,
+    "minlon": -71.0842770,
+    "maxlat": 42.3475995,
+    "maxlon": -71.0728874
+  },
+  "geometry": [
+    { "lat": 42.3407175, "lon": -71.0842770 },
+    { "lat": 42.3462377, "lon": -71.0775828 },
+    { "lat": 42.3470006, "lon": -71.0767127 },
+    { "lat": 42.3470834, "lon": -71.0766059 },
+    { "lat": 42.3471591, "lon": -71.0764899 },
+    { "lat": 42.3472273, "lon": -71.0763657 },
+    { "lat": 42.3472875, "lon": -71.0762341 },
+    { "lat": 42.3473393, "lon": -71.0760961 },
+    { "lat": 42.3473822, "lon": -71.0759526 },
+    { "lat": 42.3474159, "lon": -71.0758048 },
+    { "lat": 42.3474403, "lon": -71.0756536 },
+    { "lat": 42.3474551, "lon": -71.0755001 },
+    { "lat": 42.3475444, "lon": -71.0739917 },
+    { "lat": 42.3475908, "lon": -71.0732275 },
+    { "lat": 42.3475977, "lon": -71.0730586 },
+    { "lat": 42.3475995, "lon": -71.0728874 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "layer": "-2",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "1",
+    "source": "Bing",
+    "tunnel": "yes",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 296579043,
+  "bounds": {
+    "minlat": 42.3412986,
+    "minlon": -71.0837859,
+    "maxlat": 42.3476341,
+    "maxlon": -71.0728448
+  },
+  "geometry": [
+    { "lat": 42.3476341, "lon": -71.0728448 },
+    { "lat": 42.3476338, "lon": -71.0730601 },
+    { "lat": 42.3476329, "lon": -71.0738552 },
+    { "lat": 42.3476233, "lon": -71.0743560 },
+    { "lat": 42.3476055, "lon": -71.0747593 },
+    { "lat": 42.3475850, "lon": -71.0751257 },
+    { "lat": 42.3475658, "lon": -71.0754337 },
+    { "lat": 42.3475510, "lon": -71.0755872 },
+    { "lat": 42.3475267, "lon": -71.0757384 },
+    { "lat": 42.3474929, "lon": -71.0758863 },
+    { "lat": 42.3474500, "lon": -71.0760298 },
+    { "lat": 42.3473983, "lon": -71.0761678 },
+    { "lat": 42.3473381, "lon": -71.0762994 },
+    { "lat": 42.3472699, "lon": -71.0764236 },
+    { "lat": 42.3471941, "lon": -71.0765395 },
+    { "lat": 42.3471114, "lon": -71.0766463 },
+    { "lat": 42.3462596, "lon": -71.0776182 },
+    { "lat": 42.3422000, "lon": -71.0825413 },
+    { "lat": 42.3421167, "lon": -71.0826534 },
+    { "lat": 42.3415301, "lon": -71.0834973 },
+    { "lat": 42.3414347, "lon": -71.0836231 },
+    { "lat": 42.3412986, "lon": -71.0837859 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "layer": "-2",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "2",
+    "source": "massgis_import_v0.1_20071013192438",
+    "tunnel": "yes",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 534711747,
+  "bounds": {
+    "minlat": 42.3394258,
+    "minlon": -71.0912268,
+    "maxlat": 42.3395526,
+    "maxlon": -71.0909986
+  },
+  "geometry": [
+    { "lat": 42.3394258, "lon": -71.0912268 },
+    { "lat": 42.3395526, "lon": -71.0909986 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "0",
+    "gauge": "1435",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "light_rail",
+    "service": "crossover",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 534711749,
+  "bounds": {
+    "minlat": 42.3391475,
+    "minlon": -71.0920252,
+    "maxlat": 42.3392218,
+    "maxlon": -71.0917421
+  },
+  "geometry": [
+    { "lat": 42.3391475, "lon": -71.0920252 },
+    { "lat": 42.3392218, "lon": -71.0917421 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "0",
+    "gauge": "1435",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "light_rail",
+    "service": "crossover",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 641361705,
+  "bounds": {
+    "minlat": 42.3390774,
+    "minlon": -71.0921088,
+    "maxlat": 42.3395635,
+    "maxlon": -71.0908780
+  },
+  "geometry": [
+    { "lat": 42.3390774, "lon": -71.0921088 },
+    { "lat": 42.3391075, "lon": -71.0919722 },
+    { "lat": 42.3391356, "lon": -71.0918697 },
+    { "lat": 42.3394525, "lon": -71.0910779 },
+    { "lat": 42.3395040, "lon": -71.0909825 },
+    { "lat": 42.3395635, "lon": -71.0908780 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "0",
+    "gauge": "1435",
+    "name": "Northeastern Storage Track",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "light_rail",
+    "service": "siding",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 642267568,
+  "bounds": {
+    "minlat": 42.3409761,
+    "minlon": -71.0873245,
+    "maxlat": 42.3487297,
+    "maxlon": -71.0790550
+  },
+  "geometry": [
+    { "lat": 42.3409761, "lon": -71.0873245 },
+    { "lat": 42.3410281, "lon": -71.0871953 },
+    { "lat": 42.3410651, "lon": -71.0871104 },
+    { "lat": 42.3411082, "lon": -71.0870183 },
+    { "lat": 42.3411522, "lon": -71.0869355 },
+    { "lat": 42.3412014, "lon": -71.0868493 },
+    { "lat": 42.3412532, "lon": -71.0867671 },
+    { "lat": 42.3413017, "lon": -71.0866990 },
+    { "lat": 42.3413509, "lon": -71.0866336 },
+    { "lat": 42.3417710, "lon": -71.0861268 },
+    { "lat": 42.3424336, "lon": -71.0851907 },
+    { "lat": 42.3428920, "lon": -71.0846308 },
+    { "lat": 42.3431841, "lon": -71.0842752 },
+    { "lat": 42.3437471, "lon": -71.0837221 },
+    { "lat": 42.3443887, "lon": -71.0829359 },
+    { "lat": 42.3454390, "lon": -71.0816486 },
+    { "lat": 42.3457521, "lon": -71.0812649 },
+    { "lat": 42.3470932, "lon": -71.0796032 },
+    { "lat": 42.3471504, "lon": -71.0795457 },
+    { "lat": 42.3472086, "lon": -71.0794995 },
+    { "lat": 42.3472762, "lon": -71.0794600 },
+    { "lat": 42.3473483, "lon": -71.0794272 },
+    { "lat": 42.3483691, "lon": -71.0790781 },
+    { "lat": 42.3484398, "lon": -71.0790614 },
+    { "lat": 42.3485096, "lon": -71.0790550 },
+    { "lat": 42.3485727, "lon": -71.0790577 },
+    { "lat": 42.3486317, "lon": -71.0790675 },
+    { "lat": 42.3486824, "lon": -71.0790818 },
+    { "lat": 42.3487297, "lon": -71.0791001 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "contact_line",
+    "frequency": "0",
+    "gauge": "1435",
+    "layer": "-3",
+    "level": "-2",
+    "massgis:geom_id": "66",
+    "name": "Green Line (E)",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "light_rail",
+    "railway:preferred_direction": "forward",
+    "source": "massgis_import_v0.1_20071013192438",
+    "tunnel": "yes",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 642267673,
+  "bounds": {
+    "minlat": 42.3410018,
+    "minlon": -71.0873433,
+    "maxlat": 42.3487214,
+    "maxlon": -71.0790942
+  },
+  "geometry": [
+    { "lat": 42.3487214, "lon": -71.0791379 },
+    { "lat": 42.3486759, "lon": -71.0791201 },
+    { "lat": 42.3486276, "lon": -71.0791064 },
+    { "lat": 42.3485708, "lon": -71.0790968 },
+    { "lat": 42.3485106, "lon": -71.0790942 },
+    { "lat": 42.3484413, "lon": -71.0791007 },
+    { "lat": 42.3483735, "lon": -71.0791171 },
+    { "lat": 42.3473569, "lon": -71.0794649 },
+    { "lat": 42.3472867, "lon": -71.0794969 },
+    { "lat": 42.3472218, "lon": -71.0795347 },
+    { "lat": 42.3471665, "lon": -71.0795786 },
+    { "lat": 42.3471116, "lon": -71.0796338 },
+    { "lat": 42.3456212, "lon": -71.0814748 },
+    { "lat": 42.3453691, "lon": -71.0817842 },
+    { "lat": 42.3444108, "lon": -71.0829607 },
+    { "lat": 42.3437672, "lon": -71.0837508 },
+    { "lat": 42.3431253, "lon": -71.0846614 },
+    { "lat": 42.3426277, "lon": -71.0852627 },
+    { "lat": 42.3425470, "lon": -71.0853654 },
+    { "lat": 42.3417909, "lon": -71.0861557 },
+    { "lat": 42.3413708, "lon": -71.0866624 },
+    { "lat": 42.3413224, "lon": -71.0867268 },
+    { "lat": 42.3412748, "lon": -71.0867936 },
+    { "lat": 42.3412241, "lon": -71.0868742 },
+    { "lat": 42.3411756, "lon": -71.0869591 },
+    { "lat": 42.3411324, "lon": -71.0870404 },
+    { "lat": 42.3410900, "lon": -71.0871310 },
+    { "lat": 42.3410533, "lon": -71.0872150 },
+    { "lat": 42.3410018, "lon": -71.0873433 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "contact_line",
+    "frequency": "0",
+    "gauge": "1435",
+    "layer": "-3",
+    "level": "-2",
+    "massgis:geom_id": "66",
+    "maxspeed": "15 mph",
+    "name": "Green Line (E)",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "light_rail",
+    "railway:preferred_direction": "forward",
+    "source": "massgis_import_v0.1_20071013192438",
+    "tunnel": "yes",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 832333342,
+  "bounds": {
+    "minlat": 42.3383044,
+    "minlon": -71.0873521,
+    "maxlat": 42.3388895,
+    "maxlon": -71.0865988
+  },
+  "geometry": [
+    { "lat": 42.3388895, "lon": -71.0865988 },
+    { "lat": 42.3383044, "lon": -71.0873521 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "2",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 832333343,
+  "bounds": {
+    "minlat": 42.3376763,
+    "minlon": -71.0881844,
+    "maxlat": 42.3383044,
+    "maxlon": -71.0873521
+  },
+  "geometry": [
+    { "lat": 42.3383044, "lon": -71.0873521 },
+    { "lat": 42.3381580, "lon": -71.0875406 },
+    { "lat": 42.3378791, "lon": -71.0879072 },
+    { "lat": 42.3376763, "lon": -71.0881844 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "2",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 832333344,
+  "bounds": {
+    "minlat": 42.3385189,
+    "minlon": -71.0870009,
+    "maxlat": 42.3386259,
+    "maxlon": -71.0868653
+  },
+  "geometry": [
+    { "lat": 42.3385189, "lon": -71.0870009 },
+    { "lat": 42.3386259, "lon": -71.0868653 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "1",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 832333345,
+  "bounds": {
+    "minlat": 42.3376371,
+    "minlon": -71.0881268,
+    "maxlat": 42.3385189,
+    "maxlon": -71.0870009
+  },
+  "geometry": [
+    { "lat": 42.3376371, "lon": -71.0881268 },
+    { "lat": 42.3380050, "lon": -71.0876772 },
+    { "lat": 42.3385189, "lon": -71.0870009 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "1",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 832333346,
+  "bounds": {
+    "minlat": 42.3383044,
+    "minlon": -71.0873521,
+    "maxlat": 42.3385189,
+    "maxlon": -71.0870009
+  },
+  "geometry": [
+    { "lat": 42.3385189, "lon": -71.0870009 },
+    { "lat": 42.3383044, "lon": -71.0873521 }
+  ],
+  "tags": {
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "name": "Jay Int",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "service": "crossover",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 832333347,
+  "bounds": {
+    "minlat": 42.3386259,
+    "minlon": -71.0868653,
+    "maxlat": 42.3388895,
+    "maxlon": -71.0865988
+  },
+  "geometry": [
+    { "lat": 42.3388895, "lon": -71.0865988 },
+    { "lat": 42.3386259, "lon": -71.0868653 }
+  ],
+  "tags": {
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "name": "Jay Int",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "service": "crossover",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 832390268,
+  "bounds": {
+    "minlat": 42.3349800,
+    "minlon": -71.1026835,
+    "maxlat": 42.3392218,
+    "maxlon": -71.0917421
+  },
+  "geometry": [
+    { "lat": 42.3349800, "lon": -71.1026835 },
+    { "lat": 42.3356396, "lon": -71.1007417 },
+    { "lat": 42.3357843, "lon": -71.1003879 },
+    { "lat": 42.3358689, "lon": -71.1001879 },
+    { "lat": 42.3359383, "lon": -71.1000535 },
+    { "lat": 42.3359686, "lon": -71.0999940 },
+    { "lat": 42.3360641, "lon": -71.0997686 },
+    { "lat": 42.3361690, "lon": -71.0995018 },
+    { "lat": 42.3362559, "lon": -71.0992559 },
+    { "lat": 42.3363092, "lon": -71.0991034 },
+    { "lat": 42.3363891, "lon": -71.0988853 },
+    { "lat": 42.3366529, "lon": -71.0982204 },
+    { "lat": 42.3366998, "lon": -71.0981021 },
+    { "lat": 42.3367567, "lon": -71.0979588 },
+    { "lat": 42.3370180, "lon": -71.0973010 },
+    { "lat": 42.3373458, "lon": -71.0964798 },
+    { "lat": 42.3374378, "lon": -71.0962372 },
+    { "lat": 42.3375751, "lon": -71.0958366 },
+    { "lat": 42.3376125, "lon": -71.0957421 },
+    { "lat": 42.3376854, "lon": -71.0955581 },
+    { "lat": 42.3377445, "lon": -71.0954111 },
+    { "lat": 42.3379050, "lon": -71.0950117 },
+    { "lat": 42.3381200, "lon": -71.0944789 },
+    { "lat": 42.3381268, "lon": -71.0944620 },
+    { "lat": 42.3383644, "lon": -71.0938932 },
+    { "lat": 42.3388646, "lon": -71.0926414 },
+    { "lat": 42.3389463, "lon": -71.0924369 },
+    { "lat": 42.3390774, "lon": -71.0921088 },
+    { "lat": 42.3392218, "lon": -71.0917421 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "contact_line",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "63",
+    "name": "Green Line (E)",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "light_rail",
+    "railway:preferred_direction": "forward",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 832390269,
+  "bounds": {
+    "minlat": 42.3351075,
+    "minlon": -71.1023991,
+    "maxlat": 42.3391475,
+    "maxlon": -71.0920252
+  },
+  "geometry": [
+    { "lat": 42.3391475, "lon": -71.0920252 },
+    { "lat": 42.3390525, "lon": -71.0922599 },
+    { "lat": 42.3389904, "lon": -71.0924198 },
+    { "lat": 42.3389405, "lon": -71.0925482 },
+    { "lat": 42.3389128, "lon": -71.0926174 },
+    { "lat": 42.3388081, "lon": -71.0928781 },
+    { "lat": 42.3386313, "lon": -71.0933266 },
+    { "lat": 42.3384240, "lon": -71.0938410 },
+    { "lat": 42.3381546, "lon": -71.0944776 },
+    { "lat": 42.3381384, "lon": -71.0945181 },
+    { "lat": 42.3380022, "lon": -71.0948583 },
+    { "lat": 42.3379333, "lon": -71.0950310 },
+    { "lat": 42.3378168, "lon": -71.0953283 },
+    { "lat": 42.3377653, "lon": -71.0954568 },
+    { "lat": 42.3377048, "lon": -71.0956077 },
+    { "lat": 42.3376369, "lon": -71.0957903 },
+    { "lat": 42.3375496, "lon": -71.0960250 },
+    { "lat": 42.3374680, "lon": -71.0962585 },
+    { "lat": 42.3367868, "lon": -71.0979775 },
+    { "lat": 42.3367311, "lon": -71.0981175 },
+    { "lat": 42.3366814, "lon": -71.0982413 },
+    { "lat": 42.3363410, "lon": -71.0991237 },
+    { "lat": 42.3363353, "lon": -71.0991384 },
+    { "lat": 42.3362421, "lon": -71.0994113 },
+    { "lat": 42.3361484, "lon": -71.0996599 },
+    { "lat": 42.3360383, "lon": -71.0999197 },
+    { "lat": 42.3359680, "lon": -71.1000718 },
+    { "lat": 42.3359635, "lon": -71.1000812 },
+    { "lat": 42.3358897, "lon": -71.1002369 },
+    { "lat": 42.3358133, "lon": -71.1004037 },
+    { "lat": 42.3358053, "lon": -71.1004231 },
+    { "lat": 42.3356482, "lon": -71.1008014 },
+    { "lat": 42.3351075, "lon": -71.1023991 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "contact_line",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "63",
+    "maxspeed": "25 mph",
+    "name": "Green Line (E)",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "light_rail",
+    "railway:preferred_direction": "forward",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 832390270,
+  "bounds": {
+    "minlat": 42.3391475,
+    "minlon": -71.0920252,
+    "maxlat": 42.3395526,
+    "maxlon": -71.0909986
+  },
+  "geometry": [
+    { "lat": 42.3395526, "lon": -71.0909986 },
+    { "lat": 42.3391475, "lon": -71.0920252 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "contact_line",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "63",
+    "maxspeed": "10 mph",
+    "name": "Green Line (E)",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "light_rail",
+    "railway:preferred_direction": "forward",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 832390271,
+  "bounds": {
+    "minlat": 42.3392218,
+    "minlon": -71.0917421,
+    "maxlat": 42.3394258,
+    "maxlon": -71.0912268
+  },
+  "geometry": [
+    { "lat": 42.3392218, "lon": -71.0917421 },
+    { "lat": 42.3393256, "lon": -71.0914799 },
+    { "lat": 42.3394258, "lon": -71.0912268 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "contact_line",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "63",
+    "name": "Green Line (E)",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "light_rail",
+    "railway:preferred_direction": "forward",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 832390272,
+  "bounds": {
+    "minlat": 42.3394258,
+    "minlon": -71.0912268,
+    "maxlat": 42.3409761,
+    "maxlon": -71.0873245
+  },
+  "geometry": [
+    { "lat": 42.3394258, "lon": -71.0912268 },
+    { "lat": 42.3395635, "lon": -71.0908780 },
+    { "lat": 42.3396083, "lon": -71.0907572 },
+    { "lat": 42.3396670, "lon": -71.0905993 },
+    { "lat": 42.3397303, "lon": -71.0904468 },
+    { "lat": 42.3400495, "lon": -71.0896755 },
+    { "lat": 42.3402427, "lon": -71.0891879 },
+    { "lat": 42.3403427, "lon": -71.0889355 },
+    { "lat": 42.3404362, "lon": -71.0886800 },
+    { "lat": 42.3405756, "lon": -71.0883194 },
+    { "lat": 42.3409761, "lon": -71.0873245 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "contact_line",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "63",
+    "name": "Green Line (E)",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "light_rail",
+    "railway:preferred_direction": "forward",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 832390273,
+  "bounds": {
+    "minlat": 42.3395526,
+    "minlon": -71.0909986,
+    "maxlat": 42.3410018,
+    "maxlon": -71.0873433
+  },
+  "geometry": [
+    { "lat": 42.3410018, "lon": -71.0873433 },
+    { "lat": 42.3403609, "lon": -71.0889692 },
+    { "lat": 42.3400721, "lon": -71.0897138 },
+    { "lat": 42.3398445, "lon": -71.0902843 },
+    { "lat": 42.3397630, "lon": -71.0904660 },
+    { "lat": 42.3397032, "lon": -71.0906154 },
+    { "lat": 42.3396410, "lon": -71.0907737 },
+    { "lat": 42.3395526, "lon": -71.0909986 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "contact_line",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "63",
+    "name": "Green Line (E)",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "light_rail",
+    "railway:preferred_direction": "forward",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 1021571363,
+  "bounds": {
+    "minlat": 42.3390678,
+    "minlon": -71.0862111,
+    "maxlat": 42.3412967,
+    "maxlon": -71.0834991
+  },
+  "geometry": [
+    { "lat": 42.3412967, "lon": -71.0834991 },
+    { "lat": 42.3393753, "lon": -71.0858231 },
+    { "lat": 42.3390678, "lon": -71.0862111 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "maxspeed": "60 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "operator": "Amtrak",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "3",
+    "ref": "NHB",
+    "source": "Bing",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 1021571364,
+  "bounds": {
+    "minlat": 42.3390425,
+    "minlon": -71.0861723,
+    "maxlat": 42.3412730,
+    "maxlon": -71.0834653
+  },
+  "geometry": [
+    { "lat": 42.3412730, "lon": -71.0834653 },
+    { "lat": 42.3392040, "lon": -71.0859763 },
+    { "lat": 42.3390425, "lon": -71.0861723 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "maxspeed": "60 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "operator": "Amtrak",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "1",
+    "ref": "NHB",
+    "source": "Bing",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 1021571365,
+  "bounds": {
+    "minlat": 42.3390223,
+    "minlon": -71.0861389,
+    "maxlat": 42.3412517,
+    "maxlon": -71.0834371
+  },
+  "geometry": [
+    { "lat": 42.3390223, "lon": -71.0861389 },
+    { "lat": 42.3393320, "lon": -71.0857638 },
+    { "lat": 42.3393342, "lon": -71.0857611 },
+    { "lat": 42.3410637, "lon": -71.0836663 },
+    { "lat": 42.3412517, "lon": -71.0834371 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "maxspeed": "60 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "old_name:1970": "Shore Line",
+    "old_railway_operator": "NYNH&H",
+    "operator": "Amtrak",
+    "operator:wikidata": "Q23239",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "2",
+    "ref": "NHB",
+    "source": "Bing",
+    "source:old_name:1970": "New Haven Region Timetable No. 2, January 18, 1970",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 1486430860,
+  "bounds": {
+    "minlat": 42.3368550,
+    "minlon": -71.0890889,
+    "maxlat": 42.3374952,
+    "maxlon": -71.0883054
+  },
+  "geometry": [
+    { "lat": 42.3368550, "lon": -71.0890889 },
+    { "lat": 42.3374952, "lon": -71.0883054 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "1",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 1486430861,
+  "bounds": {
+    "minlat": 42.3369294,
+    "minlon": -71.0891986,
+    "maxlat": 42.3375400,
+    "maxlon": -71.0883712
+  },
+  "geometry": [
+    { "lat": 42.3375400, "lon": -71.0883712 },
+    { "lat": 42.3374742, "lon": -71.0884604 },
+    { "lat": 42.3374362, "lon": -71.0885118 },
+    { "lat": 42.3372755, "lon": -71.0887296 },
+    { "lat": 42.3369294, "lon": -71.0891986 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "2",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 1486430862,
+  "bounds": {
+    "minlat": 42.3368230,
+    "minlon": -71.0890416,
+    "maxlat": 42.3374581,
+    "maxlon": -71.0882508
+  },
+  "geometry": [
+    { "lat": 42.3374581, "lon": -71.0882508 },
+    { "lat": 42.3368230, "lon": -71.0890416 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "maxspeed": "100 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "operator": "Amtrak",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "3",
+    "ref": "NHB",
+    "source": "Bing",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 1486430863,
+  "bounds": {
+    "minlat": 42.3367630,
+    "minlon": -71.0889394,
+    "maxlat": 42.3374000,
+    "maxlon": -71.0881654
+  },
+  "geometry": [
+    { "lat": 42.3374000, "lon": -71.0881654 },
+    { "lat": 42.3367630, "lon": -71.0889394 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "highspeed": "yes",
+    "maxspeed": "120 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "operator": "Amtrak",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "1",
+    "ref": "NHB",
+    "source": "Bing",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 1486430864,
+  "bounds": {
+    "minlat": 42.3367388,
+    "minlon": -71.0889060,
+    "maxlat": 42.3373756,
+    "maxlon": -71.0881295
+  },
+  "geometry": [
+    { "lat": 42.3367388, "lon": -71.0889060 },
+    { "lat": 42.3373756, "lon": -71.0881295 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "highspeed": "yes",
+    "maxspeed": "120 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "old_name:1970": "Shore Line",
+    "old_railway_operator": "NYNH&H",
+    "operator": "Amtrak",
+    "operator:wikidata": "Q23239",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "2",
+    "ref": "NHB",
+    "source": "Bing",
+    "source:old_name:1970": "New Haven Region Timetable No. 2, January 18, 1970",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 1486430865,
+  "bounds": {
+    "minlat": 42.3374000,
+    "minlon": -71.0881654,
+    "maxlat": 42.3375437,
+    "maxlon": -71.0879894
+  },
+  "geometry": [
+    { "lat": 42.3375437, "lon": -71.0879894 },
+    { "lat": 42.3374000, "lon": -71.0881654 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "highspeed": "yes",
+    "maxspeed": "120 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "operator": "Amtrak",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "1",
+    "ref": "NHB",
+    "source": "Bing",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 1486430866,
+  "bounds": {
+    "minlat": 42.3374581,
+    "minlon": -71.0882508,
+    "maxlat": 42.3376012,
+    "maxlon": -71.0880740
+  },
+  "geometry": [
+    { "lat": 42.3376012, "lon": -71.0880740 },
+    { "lat": 42.3374581, "lon": -71.0882508 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "maxspeed": "100 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "operator": "Amtrak",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "3",
+    "ref": "NHB",
+    "source": "Bing",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 1486430867,
+  "bounds": {
+    "minlat": 42.3374952,
+    "minlon": -71.0883054,
+    "maxlat": 42.3376371,
+    "maxlon": -71.0881268
+  },
+  "geometry": [
+    { "lat": 42.3374952, "lon": -71.0883054 },
+    { "lat": 42.3376371, "lon": -71.0881268 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "1",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 1486430868,
+  "bounds": {
+    "minlat": 42.3375400,
+    "minlon": -71.0883712,
+    "maxlat": 42.3376763,
+    "maxlon": -71.0881844
+  },
+  "geometry": [
+    { "lat": 42.3376763, "lon": -71.0881844 },
+    { "lat": 42.3375400, "lon": -71.0883712 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "2",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+},
+{
+  "type": "way",
+  "id": 1486430869,
+  "bounds": {
+    "minlat": 42.3373756,
+    "minlon": -71.0881295,
+    "maxlat": 42.3375199,
+    "maxlon": -71.0879545
+  },
+  "geometry": [
+    { "lat": 42.3373756, "lon": -71.0881295 },
+    { "lat": 42.3375199, "lon": -71.0879545 }
+  ],
+  "tags": {
+    "electrified": "contact_line",
+    "frequency": "60",
+    "gauge": "1435",
+    "highspeed": "yes",
+    "maxspeed": "120 mph",
+    "maxspeed:freight": "50 mph",
+    "name": "Northeast Corridor",
+    "old_name:1970": "Shore Line",
+    "old_railway_operator": "NYNH&H",
+    "operator": "Amtrak",
+    "operator:wikidata": "Q23239",
+    "owner": "Massachusetts Department of Transportation",
+    "railway": "rail",
+    "railway:acses": "yes",
+    "railway:atc": "yes",
+    "railway:ctc": "yes",
+    "railway:preferred_direction": "both",
+    "railway:ptc": "yes",
+    "railway:track_ref": "2",
+    "ref": "NHB",
+    "source": "Bing",
+    "source:old_name:1970": "New Haven Region Timetable No. 2, January 18, 1970",
+    "usage": "main",
+    "voltage": "25000"
+  }
+},
+{
+  "type": "way",
+  "id": 1486771699,
+  "bounds": {
+    "minlat": 42.3407975,
+    "minlon": -71.0844022,
+    "maxlat": 42.3412986,
+    "maxlon": -71.0837859
+  },
+  "geometry": [
+    { "lat": 42.3412986, "lon": -71.0837859 },
+    { "lat": 42.3407975, "lon": -71.0844022 }
+  ],
+  "tags": {
+    "attribution": "Office of Geographic and Environmental Information (MassGIS)",
+    "electrified": "rail",
+    "frequency": "0",
+    "gauge": "1435",
+    "massgis:geom_id": "22",
+    "name": "Orange Line",
+    "operator": "Massachusetts Bay Transportation Authority",
+    "operator:short": "MBTA",
+    "operator:wikidata": "Q171985",
+    "owner": "Massachusetts Bay Transportation Authority",
+    "ownership": "state",
+    "railway": "subway",
+    "railway:preferred_direction": "forward",
+    "railway:track_ref": "2",
+    "source": "massgis_import_v0.1_20071013192438",
+    "voltage": "600"
+  }
+}
+
+  ]
+}
